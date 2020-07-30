@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Instapage-React-App/static/css/main.ec385015.chunk.css",
+    "main.js": "/Instapage-React-App/static/js/main.ef0d8bd0.chunk.js",
+    "main.js.map": "/Instapage-React-App/static/js/main.ef0d8bd0.chunk.js.map",
+    "runtime-main.js": "/Instapage-React-App/static/js/runtime-main.479e6ff0.js",
+    "runtime-main.js.map": "/Instapage-React-App/static/js/runtime-main.479e6ff0.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Instapage-React-App/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a0550fb5.chunk.js": "/Instapage-React-App/static/js/2.a0550fb5.chunk.js",
+    "static/js/2.a0550fb5.chunk.js.map": "/Instapage-React-App/static/js/2.a0550fb5.chunk.js.map",
+    "index.html": "/Instapage-React-App/index.html",
+    "precache-manifest.78a420ddddd333911f22ad0238873dd4.js": "/Instapage-React-App/precache-manifest.78a420ddddd333911f22ad0238873dd4.js",
+    "service-worker.js": "/Instapage-React-App/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Instapage-React-App/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ec385015.chunk.css.map": "/Instapage-React-App/static/css/main.ec385015.chunk.css.map",
+    "static/js/2.a0550fb5.chunk.js.LICENSE.txt": "/Instapage-React-App/static/js/2.a0550fb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.479e6ff0.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a0550fb5.chunk.js",
+    "static/css/main.ec385015.chunk.css",
+    "static/js/main.ef0d8bd0.chunk.js"
+  ]
+}
