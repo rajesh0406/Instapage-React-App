@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Instapage-React-App/precache-manifest.78a420ddddd333911f22ad0238873dd4.js"
+  "/Instapage-React-App/precache-manifest.446f56f0c901ad3a8170268ea5152917.js"
 );
 
 self.addEventListener('message', (event) => {

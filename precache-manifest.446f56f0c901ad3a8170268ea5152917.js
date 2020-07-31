@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a32040cc2ac5e4172c53a4ff6291f5b",
+    "revision": "44627449295b5d2b385a027f1f382d85",
     "url": "/Instapage-React-App/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Instapage-React-App/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4a0a41a4665c8ce28c17",
-    "url": "/Instapage-React-App/static/css/main.ec385015.chunk.css"
+    "revision": "de06a8841db69fbdeb95",
+    "url": "/Instapage-React-App/static/css/main.a87c50d7.chunk.css"
   },
   {
     "revision": "844d6e5719d86706da34",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Instapage-React-App/static/js/2.a0550fb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a0a41a4665c8ce28c17",
-    "url": "/Instapage-React-App/static/js/main.ef0d8bd0.chunk.js"
+    "revision": "de06a8841db69fbdeb95",
+    "url": "/Instapage-React-App/static/js/main.ec14142e.chunk.js"
   },
   {
     "revision": "e799df668de952474039",
